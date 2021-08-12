@@ -6,3 +6,6 @@
 	- 'git commit -m "MESSAGE"'
 - 'git log'
 	- 'git log --online'
+- 'git diff'
+	- 'git diff --staged'
+	- 'git diff HEAD~'
