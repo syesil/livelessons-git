@@ -1,2 +1,5 @@
 - 'git init: initialize cerrent folder'
 - 'git clone'
+- 'git status'
+- 'git add <FILE>'
+- 'git commit'
