@@ -3,3 +3,6 @@
 - 'git status'
 - 'git add <FILE>'
 - 'git commit'
+	- 'git commit -m "MESSAGE"'
+- 'git log'
+	- 'git log --online'
