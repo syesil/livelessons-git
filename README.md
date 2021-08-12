@@ -1,0 +1,2 @@
+- 'git init: initialize cerrent folder'
+- 'git clone'
