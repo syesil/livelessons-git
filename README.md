@@ -1,3 +1,5 @@
+GIT NOTES
+
 - 'git init: initialize cerrent folder'
 - 'git clone'
 - 'git status'
