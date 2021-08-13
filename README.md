@@ -9,3 +9,5 @@
 - 'git diff'
 	- 'git diff --staged'
 	- 'git diff HEAD~'
+- 'git restore --source <HASH or HEAD~> <FILE>' : resore file to 
+	-	'git checkout <HASH or HEAD~> <FILE>
