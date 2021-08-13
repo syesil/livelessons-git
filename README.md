@@ -13,4 +13,5 @@
 	-	'git checkout <HASH or HEAD~> <FILE>
 - 'git remote add <NAME> <URL>': adds the <URL> as a remote
 - 'git remote -v'
-- 'git push <WHERE> <WHAT>' 
+- 'git push <WHERE> <WHAT>'
+- 'git pull'	
