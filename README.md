@@ -1,4 +1,5 @@
-# GIT NOTES for Local Work
+# Git Notes
+## Local
 
 - 'git init: initialize cerrent folder'
 - 'git clone'
@@ -14,8 +15,8 @@
 - 'git restore --source <HASH or HEAD~> <FILE>' : resore file to 
 	-	'git checkout <HASH or HEAD~> <FILE>
 
-# GIT REMOTE
-	
+## Remote 	
+
 - 'git remote add <NAME> <URL>': adds the <URL> as a remote
 - 'git remote -v'
 - 'git push <WHERE> <WHAT>'
