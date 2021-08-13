@@ -14,4 +14,4 @@
 - 'git remote add <NAME> <URL>': adds the <URL> as a remote
 - 'git remote -v'
 - 'git push <WHERE> <WHAT>'
-- 'git pull'	
+- 'git pull '	
