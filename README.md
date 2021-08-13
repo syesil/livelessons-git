@@ -13,6 +13,9 @@ GIT NOTES
 	- 'git diff HEAD~'
 - 'git restore --source <HASH or HEAD~> <FILE>' : resore file to 
 	-	'git checkout <HASH or HEAD~> <FILE>
+
+GIT REMOTE
+	
 - 'git remote add <NAME> <URL>': adds the <URL> as a remote
 - 'git remote -v'
 - 'git push <WHERE> <WHAT>'
