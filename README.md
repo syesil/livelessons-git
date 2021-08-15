@@ -22,7 +22,7 @@
 - 'git push <WHERE> <WHAT>'
 - 'git pull '
 
-## branches
+## Branches
 
 - 'git branch <NAME>'
 - 'git switch <NAME>'
