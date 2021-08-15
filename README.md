@@ -28,4 +28,5 @@
 - 'git switch <NAME>'
 	- 'git checkout <NAME>'
 - 'git swith -c <NAME>'
-	- 'git checkout -b <NAME>'	
+	- 'git checkout -b <NAME>
+- 'git merge <BRANCH>'	
