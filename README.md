@@ -29,4 +29,5 @@
 	- 'git checkout <NAME>'
 - 'git swith -c <NAME>'
 	- 'git checkout -b <NAME>
-- 'git merge <BRANCH>'	
+- 'git merge <BRANCH>'
+- 'git rebase <BRANCH>	
