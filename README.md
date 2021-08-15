@@ -20,4 +20,12 @@
 - 'git remote add <NAME> <URL>': adds the <URL> as a remote
 - 'git remote -v'
 - 'git push <WHERE> <WHAT>'
-- 'git pull '	
+- 'git pull '
+
+## branches
+
+- 'git branch <NAME>'
+- 'git switch <NAME>'
+	- 'git checkout <NAME>'
+- 'git swith -c <NAME>'
+	- 'git checkout -b <NAME>'	
