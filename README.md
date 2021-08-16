@@ -32,4 +32,11 @@
 - 'git merge <BRANCH>'
 - 'git rebase <BRANCH>	
 	- Commits form mdmdnjsdskldn
+<<<<<<< HEAD
 - 'git push <WHERE> <WHAT>'	
+	- dskj;mxalcm'
+	- djclkjk;cm;lc
+	- djhfoienwiqclk
+	- joqjdiqwcmw;cm	
+	- dssadassadasd
+	- ddadcmrgm;lv
