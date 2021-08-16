@@ -31,4 +31,10 @@
 	- 'git checkout -b <NAME>
 - 'git merge <BRANCH>'
 - 'git rebase <BRANCH>	
-	- Commits form mdmdnjsdskldn	
+	- Commits form mdmdnjsdskldn
+	- dskj;mxalcm'
+	- djclkjk;cm;lc
+	- djhfoienwiqclk
+	- joqjdiqwcmw;cm	
+	- dssadassadasd
+	- ddadcmrgm;lv
