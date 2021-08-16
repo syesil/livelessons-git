@@ -31,4 +31,5 @@
 	- 'git checkout -b <NAME>
 - 'git merge <BRANCH>'
 - 'git rebase <BRANCH>	
-	- Commits form mdmdnjsdskldn	
+	- Commits form mdmdnjsdskldn
+- 'git push <WHERE> <WHAT>'	
